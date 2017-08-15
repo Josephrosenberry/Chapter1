@@ -8,4 +8,3 @@ public class Poem
         System.out.println ("And so are you");
     }
 }
-        
